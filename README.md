@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/jannatul-ferdous-334617252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jannatul-ferdous-334617252" height="30" width="40" /></a>
-<a href="https://instagram.com/jfj_annat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jfj_annat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jannatul-ferdous-3346172527252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jannatul-ferdous-3346172527252" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jfj_annat?igsh=mwphbnv5cnfsz3b5zw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jfj_annat?igsh=mwphbnv5cnfsz3b5zw==" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
