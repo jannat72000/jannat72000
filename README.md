@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python,JavaSrcipt,Django & Bootstrap**
 
-- 📫 How to reach me **jannatulferdousewu7@gmail.com**
+- 📫 How to reach me **jfsjannat.ewu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
