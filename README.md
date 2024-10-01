@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannat72000&label=Profile%20views&color=0e75b6&style=flat" alt="jannat72000" /> </p>
 
 
-- 🌱 I’m currently learning **Python,JavaSrcipt,Django & Bootstrap**
+- 🌱 I’m currently learning **Python,JavaSrcipt,Meta Marketing,Machine Learning, Data Science**
 
 - 📫 How to reach me **jfsjannat.ewu@gmail.com**
 
