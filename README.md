@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python,JavaSrcipt,Meta Marketing,Machine Learning, Data Science**
 
-- 📫 How to reach me **jfsjannat.ewu@gmail.com**
+- 📫 How to reach me **jannatul.f.salma.official@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
